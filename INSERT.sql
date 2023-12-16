@@ -1,4 +1,4 @@
-Use Project
+Use Project;
 
 CREATE TABLE Customer
 (
