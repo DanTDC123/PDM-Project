@@ -1,3 +1,5 @@
+Use Project
+
 CREATE TABLE Customer
 (
   customerID VARCHAR(10) NOT NULL,
@@ -103,7 +105,7 @@ VALUES
     ('RST007', 'Veggie Delight', '404 Maple Street'),
     ('RST008', 'Seafood Paradise', '505 Pine Road'),
     ('RST009', 'Mexican Fiesta', '606 Oak Avenue'),
-    ('RST010', 'Café Elegance', '707 Elm Lane'),
+    ('RST010', 'CafÃ© Elegance', '707 Elm Lane'),
     ('RST011', 'Healthy Bites', '808 Cedar Drive'),
     ('RST012', 'BBQ Grill', '909 Birch Boulevard'),
     ('RST013', 'Noodle House', '101 Maple Street'),
